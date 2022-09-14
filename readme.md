@@ -5,7 +5,7 @@
 Actually this project is a part of **Coding Ninjas skillTest**
 #
 ## 🔗 Website Links
-[!IMDB-Clone](https://katherineoelsner.com/)
+[!IMDB-Clone](https://imdb-clone-sahil-gagan.netlify.app/))
 
 
 ### I have created this Documentation so that the Reader will easily understand the code , although I have used comment alot.
